@@ -6,38 +6,50 @@
   <img alt="Muzuva Joshua — Full-Stack Engineer building AI-powered products" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
+<br><br>
+
+**Full-stack engineer turning messy, real-world data into products people use.**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,pytorch,sklearn,git&theme=dark" alt="TypeScript, JavaScript, Python, React, Node.js, PyTorch, scikit-learn, Git" />
+
 </div>
 
 <br>
 
-I'm a full-stack engineer who builds **AI-powered products end to end** — from the model to the interface. I'm drawn to problems where the data is messy and the stakes are real: clinical signals, low-resource languages, urban infrastructure. I care about systems that ship and hold up in production, not demos.
+<h3 align="center">Selected work</h3>
 
-Currently leveling toward staff-level depth across applied ML and product engineering.
+<div align="center">
+
+<a href="https://github.com/muzuvajoshua/kiteezi-waste-management">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muzuvajoshua&repo=kiteezi-waste-management&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=8b8b8b&hide_border=true&border_radius=12" alt="Kiteezi Waste Management" />
+</a>
+<a href="https://github.com/muzuvajoshua/Digitization-of-ECG-Images">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muzuvajoshua&repo=Digitization-of-ECG-Images&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=8b8b8b&hide_border=true&border_radius=12" alt="ECG Image Digitization" />
+</a>
+<br>
+<a href="https://github.com/muzuvajoshua/SwahiliNewsClassifier">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muzuvajoshua&repo=SwahiliNewsClassifier&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=8b8b8b&hide_border=true&border_radius=12" alt="Swahili News Classifier" />
+</a>
+<a href="https://github.com/muzuvajoshua/llm-fine-tuning">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muzuvajoshua&repo=llm-fine-tuning&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=8b8b8b&hide_border=true&border_radius=12" alt="LLM Fine-Tuning" />
+</a>
+
+</div>
 
 <br>
 
-### Selected work
+<div align="center">
 
-A few projects that show the range — model, pipeline, and product.
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Kiteezi Waste Management](https://github.com/muzuvajoshua/kiteezi-waste-management)** | AI-assisted platform for waste collection, tracking, and disposal — a full product, not a notebook. | `TypeScript` · `React` |
-| **[ECG Image Digitization](https://github.com/muzuvajoshua/Digitization-of-ECG-Images)** | Recovers analyzable signals from ECG *images* so legacy paper records become usable for diagnosis. | `Python` · `CV` |
-| **[Swahili News Classifier](https://github.com/muzuvajoshua/SwahiliNewsClassifier)** | Category classification for a low-resource language — NLP where pretrained models don't come for free. | `Python` · `NLP` |
-| **[LLM Fine-Tuning](https://github.com/muzuvajoshua/llm-fine-tuning)** | Adapting language models to narrow domains — the modern half of the AI stack. | `Python` · `Transformers` |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muzuvajoshua&show_icons=true&hide_border=true&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=8b8b8b&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzuvajoshua&layout=compact&hide_border=true&bg_color=00000000&title_color=f59e0b&text_color=8b8b8b&langs_count=8" alt="Top languages" />
 
 <br>
 
-### Stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzuvajoshua&hide_border=true&background=00000000&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=8b8b8b&dates=8b8b8b&currStreakNum=8b8b8b&sideNums=8b8b8b&stroke=8b8b8b" alt="Contribution streak" />
 
-```
-Languages    TypeScript · JavaScript · Python
-Frontend     React · modern TS tooling
-Backend      Python · Node.js
-AI / ML      PyTorch · scikit-learn · Transformers · pandas · Jupyter
-Focus        applied ML · NLP · computer vision · full-stack product
-```
+</div>
 
 <br>
 
@@ -53,14 +65,6 @@ Focus        applied ML · NLP · computer vision · full-stack product
 - **[kiteezi-waste-management](https://github.com/muzuvajoshua/kiteezi-waste-management)** · `TypeScript` — A robust solution designed to streamline waste collection, tracking, and disposal processes. Bu…  
   <sub>updated Oct 2025</sub>
 <!-- LATEST:END -->
-
-<br>
-
-### Engineering philosophy
-
-- **Ship the whole thing.** A model is worthless until it's behind an interface someone can use.
-- **Real data over clean data.** The interesting problems are the messy ones.
-- **Legible systems.** Code and architecture should explain themselves to the next engineer.
 
 <br>
 
