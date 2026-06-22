@@ -56,13 +56,13 @@
 <!-- LATEST:START -->
 ### Latest
 
+- **[kiteezi-waste-management](https://github.com/muzuvajoshua/kiteezi-waste-management)** · `TypeScript` — A robust solution designed to streamline waste collection, tracking, and disposal processes. Bu…  
+  <sub>updated Jun 2026</sub>
 - **[YHWH-generation](https://github.com/muzuvajoshua/YHWH-generation)** · `TypeScript`  
   <sub>updated Jun 2026</sub>
 - **[Open-flow-channel-calculations](https://github.com/muzuvajoshua/Open-flow-channel-calculations)** · `Jupyter Notebook`  
   <sub>updated Oct 2025</sub>
 - **[Digitization-of-ECG-Images](https://github.com/muzuvajoshua/Digitization-of-ECG-Images)** · `Python` — ECGs are vital for heart disease diagnosis, but many exist only as images, not time-series data…  
-  <sub>updated Oct 2025</sub>
-- **[kiteezi-waste-management](https://github.com/muzuvajoshua/kiteezi-waste-management)** · `TypeScript` — A robust solution designed to streamline waste collection, tracking, and disposal processes. Bu…  
   <sub>updated Oct 2025</sub>
 <!-- LATEST:END -->
 
