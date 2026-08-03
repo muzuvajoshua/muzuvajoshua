@@ -57,7 +57,7 @@
 ### Latest
 
 - **[kiteezi-waste-management](https://github.com/muzuvajoshua/kiteezi-waste-management)** · `TypeScript` — A robust solution designed to streamline waste collection, tracking, and disposal processes. Bu…  
-  <sub>updated Jun 2026</sub>
+  <sub>updated Aug 2026</sub>
 - **[YHWH-generation](https://github.com/muzuvajoshua/YHWH-generation)** · `TypeScript`  
   <sub>updated Jun 2026</sub>
 - **[Open-flow-channel-calculations](https://github.com/muzuvajoshua/Open-flow-channel-calculations)** · `Jupyter Notebook`  
